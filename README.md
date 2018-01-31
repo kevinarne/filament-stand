@@ -1,7 +1,7 @@
 # Parts List
 * 2 x panels from FilamentStand.svg (in Imperial units)
 * 2 x 5/8" threaded rod sized based on your spool
-* 4 x bearings
+* 4 x 8mm x 22mm x 7mm bearings
 * 8 x 5/8" nuts
 * 12 x 5/8" washer (make sure they are smaller than the bearing's outer edge, may need to use 1/4" washers instead)
 
